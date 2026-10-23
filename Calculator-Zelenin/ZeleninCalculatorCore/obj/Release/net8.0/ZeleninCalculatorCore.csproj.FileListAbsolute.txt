@@ -1,0 +1,11 @@
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\bin\Release\net8.0\ZeleninCalculatorCore.deps.json
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\bin\Release\net8.0\ZeleninCalculatorCore.dll
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\bin\Release\net8.0\ZeleninCalculatorCore.pdb
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\obj\Release\net8.0\ZeleninCalculatorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\obj\Release\net8.0\ZeleninCalculatorCore.AssemblyInfoInputs.cache
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\obj\Release\net8.0\ZeleninCalculatorCore.AssemblyInfo.cs
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\obj\Release\net8.0\ZeleninCalculatorCore.csproj.CoreCompileInputs.cache
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\obj\Release\net8.0\ZeleninCalculatorCore.dll
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\obj\Release\net8.0\refint\ZeleninCalculatorCore.dll
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\obj\Release\net8.0\ZeleninCalculatorCore.pdb
+C:\Users\79526\Documents\Проект по умолчанию\Calculator-Zelenin\ZeleninCalculatorCore\obj\Release\net8.0\ref\ZeleninCalculatorCore.dll

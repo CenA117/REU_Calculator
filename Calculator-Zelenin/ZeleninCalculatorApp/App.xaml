@@ -1,0 +1,9 @@
+﻿<Application x:Class="ZeleninCalculatorApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:infra="clr-namespace:ZeleninCalculatorApp.Infrastructure"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <infra:StringToBrushConverter x:Key="B"/>
+    </Application.Resources>
+</Application>
